@@ -17,4 +17,4 @@ GIDInd is released under the terms of the GNU General Public License, either ver
 Please visit the Downloads Page to access executable files for Windows and Linux (does NOT require active MATLAB license to run) or source codes (requires active MATLAB license to run). 
 ## Help 
 Please see the official [Manual](DummyfileforManual.pdf) for general instructions on using GIDInd and extended tutorials.
-
+![Logo](https://raw.githubusercontent.com/m-kainz/GIDInd/main/GIDInd_Logo.png)
