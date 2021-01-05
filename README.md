@@ -12,11 +12,12 @@
 - The lattice constants of a reduced cell will be given (Buerger cell/Niggli criteria)
 - Graphic visualization of experimental and calculated peak positions
 ## Availability 
-GIDInd is released under the terms of the GNU General Public License, either version 3 of the License, or (at your opinion) any later version. Please find the full license text [here](GIDInd_GeneralPublicLicence.txt)
+GIDInd is released under the terms of the GNU General Public License, either version 3 of the License, or (at your opinion) any later version. Please find the full license text [here](GIDInd_GeneralPublicLicense.txt)
 
-Download GIDInd as executable files for Windows and Linux (does NOT require MATLAB to run) or as source code (requires MATLAB to run). 
+Download GIDInd as executable files for Windows and Linux (does NOT require active MATLAB license to run) or as source code (requires active MATLAB license to run). 
 
 ## Help 
+Please see the GIDInd Manual for general instruction on using GIDInd and extended tutorials.
 ## Downloads
 
 
