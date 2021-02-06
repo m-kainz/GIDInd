@@ -1,6 +1,6 @@
 # [GIDInd](https://www.if.tugraz.at/amd/GIDInd/) 
 
-### A MATLAB application for automated indexing of grazing-incidence X-ray diffraction (GIXD) images.
+### A MATLAB application for automated indexing of grazing-incidence X-ray diffraction (GIXD) data.
 
 ## Features
 - Indexing based on two components of the scattering vectors: the in-plane parts (q<sub>xy</sub>) and the out-of plane parts (q<sub>z</sub>)
