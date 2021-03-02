@@ -16,6 +16,6 @@ GIDInd is released under the terms of the GNU General Public License, either ver
 
 Please visit the [Downloads](https://github.com/m-kainz/GIDInd/wiki/Downloads) page to access executable files for Windows (does NOT require active MATLAB license to run) or source codes (requires active MATLAB license to run). It is strongly recommendet to use the standalone executable file. The link always forwards to the latest version. Please use the version with the latest date to access all functions (currently 2021_02_25).
 ## Help 
-Please see the official [Manual](GIDInd_Manual_1_0.pdf) for general instructions on using GIDInd and extended tutorials.
+Please see the official [Manual](GIDInd_Manual_2_0.pdf) for general instructions on using GIDInd and extended tutorials.
 ##
 ![Logo](https://raw.githubusercontent.com/m-kainz/GIDInd/main/GIDInd_Logo.png)
